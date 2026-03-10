@@ -16,7 +16,7 @@ We focus on creating clean, reliable websites that work well on all devices and 
 
 ## Website
 
-https://jzwebdesign.ie
+Visit our website: https://jzwebdesign.ie
 
 ## Location
 
