@@ -1,16 +1,23 @@
-## Hi there 👋
+# JZ Web Design
 
-<!--
-**jzwebdesign/jzwebdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JZ Web Design is a Dublin-based web design service specialising in WordPress websites for small businesses across Ireland. We build fast, modern websites that are easy to manage and designed to support real business growth.
 
-Here are some ideas to get you started:
+## Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- WordPress Web Design  
+- Website Redesign  
+- WordPress Hosting  
+- WordPress Maintenance  
+- Website Performance Optimisation  
+
+## About
+
+We focus on creating clean, reliable websites that work well on all devices and are simple for clients to update and maintain. From design and development to hosting and ongoing support, we provide everything needed to keep a business website running smoothly.
+
+## Website
+
+https://jzwebdesign.ie
+
+## Location
+
+Dublin, Ireland
